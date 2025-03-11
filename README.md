@@ -53,4 +53,4 @@ Users are able to:
 
 
 ## Author
-- My Portfolio - [Elian Contreras](https://elian-contreras.vercel.app)
+- My Portfolio - [Elian Contreras](https://elian-contreras.netlify.app/)
